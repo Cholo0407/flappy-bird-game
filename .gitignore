@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.pythonlibs/
+.upm/
+.config/
+.cache/
+.replit
+replit.nix
